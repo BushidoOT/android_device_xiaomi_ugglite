@@ -1,1 +1,1 @@
-add_lunch_combo aicp_ugglite-userdebug
+add_lunch_combo fh_ugglite-userdebug
