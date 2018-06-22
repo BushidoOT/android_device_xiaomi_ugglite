@@ -1,1 +1,1 @@
-add_lunch_combo own_ugglite-userdebug
+add_lunch_combo liquid_ugglite-userdebug
